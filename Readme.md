@@ -17,4 +17,4 @@
 
 
 # Links 
-[Demo](https://designer-arthur.netlify.app/)
+[Demo](https://amitkhairwal.github.io/designer_portfolio/)
